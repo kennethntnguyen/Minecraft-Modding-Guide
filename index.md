@@ -37,7 +37,7 @@ _Note: As found by Chung, after installing this shader mobs no longer flash red 
 
 ## 3. Installing Mods Using MultiMC  
 * I highly recommend using MultiMC as it makes managing your Minecraft client much easier. However, if you still want to use the original launcher then use this part of the guide:  
-[5\. Installing Mods Using Original Mojang Minecraft Laucher](#5-installing-mods-using-original-mojang-minecraft-laucher)\. If you already installed the _Required Mods_ and want to install the require mods for shaders then skip to the [Install Shaders](#l-multimc.png) section\.  
+[5\. Installing Mods Using Original Mojang Minecraft Laucher](#5-installing-mods-using-original-mojang-minecraft-laucher)\. If you already installed the _Required Mods_ and want to install the require mods for shaders then skip to the [Install Shaders](#l-multimc) section\.  
 
 i. [Download MultiMC](https://multimc.org/#Download)  
 
