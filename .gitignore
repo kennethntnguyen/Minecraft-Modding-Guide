@@ -1,5 +1,6 @@
-/_site
+_site/
 Gemfile
 *.lock
 make_png_markdown_commands.py
 images_markdown.txt
+.DS_Store
