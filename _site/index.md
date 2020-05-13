@@ -1,4 +1,4 @@
-# UAA Minecraft Guide
+# Make Your Minecraft Client Playable With UAA Minecraft Server
 
 
 ## 1. Required Mods to Participate
