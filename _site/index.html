@@ -1,56 +1,42 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Make Your Minecraft Client Playable With UAA Minecraft Server | UAA Minecraft Server</title>
+<title>UAA Minecraft Modding Guide | UAA Minecraft</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Make Your Minecraft Client Playable With UAA Minecraft Server" />
+<meta property="og:title" content="UAA Minecraft Modding Guide" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="A reference for getting your client working for UAA Minecraft" />
-<meta property="og:description" content="A reference for getting your client working for UAA Minecraft" />
+<meta name="description" content="A reference for getting your client working for our Minecraft server" />
+<meta property="og:description" content="A reference for getting your client working for our Minecraft server" />
 <link rel="canonical" href="http://localhost:4000/" />
 <meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="UAA Minecraft Server" />
+<meta property="og:site_name" content="UAA Minecraft" />
 <script type="application/ld+json">
-{"headline":"Make Your Minecraft Client Playable With UAA Minecraft Server","description":"A reference for getting your client working for UAA Minecraft","@type":"WebSite","url":"http://localhost:4000/","name":"UAA Minecraft Server","@context":"https://schema.org"}</script>
+{"headline":"UAA Minecraft Modding Guide","description":"A reference for getting your client working for our Minecraft server","@type":"WebSite","url":"http://localhost:4000/","name":"UAA Minecraft","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=50cd9a5f1a0bacda7bcde7a90e71303ad78db965">
-    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js"></script>
-    <!--[if lt IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=911f7afba5a9e60fdff2bf23daab3715c19d06ab">
   </head>
   <body>
+    <section class="page-header">
+      <h1 class="project-name">UAA Minecraft</h1>
+      <h2 class="project-tagline">A reference for getting your client working for our Minecraft server</h2>
+      
+        <a href="https://github.com/kennethntnguyen/uaaminecraft" class="btn">View on GitHub</a>
+      
+      
+    </section>
 
-      <header>
-        <h1>UAA Minecraft Server</h1>
-        <p>A reference for getting your client working for UAA Minecraft</p>
-      </header>
-
-      <div id="banner">
-        <span id="logo"></span>
-
-        <a href="https://github.com/kennethntnguyen/uaaminecraft" class="button fork"><strong>View On GitHub</strong></a>
-        
-      </div><!-- end banner -->
-
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
-        <h1 id="make-your-minecraft-client-playable-with-uaa-minecraft-server">Make Your Minecraft Client Playable With UAA Minecraft Server</h1>
+    <section class="main-content">
+      <h1 id="uaa-minecraft-modding-guide">UAA Minecraft Modding Guide</h1>
 
 <h2 id="1-required-mods-to-participate">1. Required Mods to Participate</h2>
 <ul>
-  <li>Download all of them, drag &amp; drop them into your mods folder in path <em>DRIVE_LETTER:\Users\YOUR_USER_NAME\AppData\Roaming\.minecraft\mods</em></li>
+  <li>Download all of the following mod <em>.jar</em> files.</li>
 </ul>
 
 <p>i. <a href="http://files.minecraftforge.net">Forge - Download the latest version by pressing <em>Installer</em></a></p>
@@ -80,6 +66,8 @@ simulated erosion, better rivers, custom decorations, tonnes of configuration op
   <li>Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate. Also, you can configure a ratio of players that are required to make it morning (default 50%) messages can be customised in the config and alerts can be turned off if needed.</li>
 </ul>
 
+<p>After you are done downloading the mods above and don’t want to install shaders then skip to <a href="#3-installation-guide-using-multimc">3. Installation Guide Using MultiMC</a>. However, if you want to install shaders then continue to the next section: <a href="#2-required-mods-for-shaders">2. Required Mods for Shaders</a>.</p>
+
 <h2 id="2-required-mods-for-shaders">2. Required Mods for Shaders</h2>
 <p>i. <a href="https://optifine.net/adloadx?f=preview_OptiFine_1.15.2_HD_U_G1_pre16.jar">OptiFine</a></p>
 <ul>
@@ -96,25 +84,72 @@ simulated erosion, better rivers, custom decorations, tonnes of configuration op
   <li>MixinBootstrap is a temporary way of booting Mixin in a MinecraftForge production environment. <a href="https://github.com/LXGaming/MixinBootstrap">https://github.com/LXGaming/MixinBootstrap</a></li>
 </ul>
 
+<p>iv. (Optional): You can use whatever shader you want as long as it’s an <a href="https://optifine.net/adloadx?f=preview_OptiFine_1.15.2_HD_U_G1_pre16.jar">OptiFine</a> compatible shader. This is the shader I use and a few others on the server: <a href="https://sildurs-shaders.github.io/downloads">Sildur’s Vibrant shaders v1.27</a>. I personally use the Lite version and tweak the settings to my liking. <em>Note: As found by Chung, after installing this shader mobs no longer flash red when hit.</em></p>
+
 <h2 id="3-installation-guide-using-multimc">3. Installation Guide Using MultiMC</h2>
 <ul>
   <li>I highly recommend using MultiMC as it makes managing your Minecraft client much easier. However, if you still want to use the original launcher then use this part of the guide:<br /><a href="#4-installation-guide-using-original-mojang-minecraft-laucher">4. Installation Guide Using Original Mojang Minecraft Laucher</a></li>
 </ul>
 
-<p>i. <a href="https://multimc.org/#Download">Download MultiMC</a>
-ii.</p>
+<p>i. <a href="https://multimc.org/#Download">Download MultiMC</a></p>
+
+<p>ii. Open up MultiMC and click profiles on the top right
+<img src="/screenshots/000multimc.PNG" alt="000multimc.PNG" /></p>
+
+<p>iii. Click manage accounts
+<img src="/screenshots/00multimc.PNG" alt="00multimc.PNG" /></p>
+
+<p>iv. Click <em>Add</em> on the right and then enter in your Minecraft account information
+<img src="/screenshots/0multimc.PNG" alt="0multimc.PNG" /></p>
+
+<p>v. Click <em>Add Instance</em>
+<img src="/screenshots/1multimc.PNG" alt="1multimc.PNG" /></p>
+
+<p>vi. Name your instance, what group it falls under (optional) and choose Minecraft Vanilla version 1.15.2 and press <em>OK</em>.
+<img src="/screenshots/2multimc.PNG" alt="2multimc.PNG" /></p>
+
+<p>vii. Now right click your newly made instance and press <em>Edit Instance</em>.
+<img src="/screenshots/3multimc.PNG" alt="3multimc.PNG" /></p>
+
+<p>viii. Make sure <em>Version</em> is selected on the left side column, then click <em>Install Forge</em> on the right side column.
+<img src="/screenshots/4multimc.PNG" alt="4multimc.PNG" /></p>
+
+<p>ix. Select the latest version (highest number) which is 31.1.87 in my case, then click <em>OK</em>. <em>Note: This might not be your case, but selecting the latest version should be sufficient</em>.
+<img src="/screenshots/5multimc.PNG" alt="5multimc.PNG" /></p>
+
+<p>x. Now you should see Forge. Now <em>Close</em> the window.
+<img src="/screenshots/6multimc.PNG" alt="6multimc.PNG" /></p>
+
+<p>xi. Go ahead and start your instance by double-clicking the instance that you created. If it is installed correctly then you should see the Forge version you installed on the bottom left of the Minecraft main screen. Also if you click <em>Mods</em> you should see Forge there too.
+<img src="/screenshots/7multimc.PNG" alt="7multimc.PNG" />
+<img src="/screenshots/8multimc.PNG" alt="8multimc.PNG" /></p>
+
+<p>xii. Now close your Minecraft game and right click your instance and press <em>Minecraft Folder</em>. It will open up your the respective folder to your instance.
+<img src="/screenshots/9multimc.PNG" alt="9multimc.PNG" /></p>
+
+<p>xiii. Open up the <em>mods</em> folder.
+<img src="/screenshots/10multimc.PNG" alt="10multimc.PNG" /></p>
+
+<p>xiv. Drag and drop the mod <em>.jar</em> files in the <em>mods</em> folder.
+<img src="/screenshots/11multimc.PNG" alt="11multimc.PNG" />
+<img src="/screenshots/12multimc.PNG" alt="12multimc.PNG" /></p>
+
+<p>xv. Now, once you open up your Minecraft game you should see all the mods that you installed.
+<img src="/screenshots/13multimc.PNG" alt="13multimc.PNG" />
+<img src="/screenshots/14multimc.PNG" alt="14multimc.PNG" /></p>
 
 <h2 id="4-installation-guide-using-original-mojang-minecraft-laucher">4. Installation Guide Using Original Mojang Minecraft Laucher</h2>
 
+<p>Just download MultiMC. It will make your life so much easier. <a href="#3-installation-guide-using-multimc">3. Installation Guide Using MultiMC</a>. Maybe I’ll write a guide here whenever I’m not lazy.</p>
 
-      </section>
-      <footer>
+
+      <footer class="site-footer">
         
-          <p>Project maintained by <a href="https://github.com/kennethntnguyen">kennethntnguyen</a></p>
+          <span class="site-footer-owner"><a href="https://github.com/kennethntnguyen/uaaminecraft">uaaminecraft</a> is maintained by <a href="https://github.com/kennethntnguyen">kennethntnguyen</a>.</span>
         
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
       </footer>
-    </div>
+    </section>
 
     
   </body>

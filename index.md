@@ -2,7 +2,7 @@
 
 
 ## 1. Required Mods to Participate
-* Download all of the following _\.jar_ files.
+* Download all of the following mod _\.jar_ files.
 
 i. [Forge - Download the latest version by pressing _Installer_](http://files.minecraftforge.net)
 * Open-source modding API and loader
@@ -39,8 +39,52 @@ iv. \(Optional\): You can use whatever shader you want as long as it's an [OptiF
 * I highly recommend using MultiMC as it makes managing your Minecraft client much easier. However, if you still want to use the original launcher then use this part of the guide:<br>[4\. Installation Guide Using Original Mojang Minecraft Laucher](#4-installation-guide-using-original-mojang-minecraft-laucher)
 
 i. [Download MultiMC](https://multimc.org/#Download)
-ii. Open up MultiMC and do the following steps:
-![Click the top right where it says profiles](/screenshots/000multimc.png)
+
+ii. Open up MultiMC and click profiles on the top right
+![000multimc.PNG](/screenshots/000multimc.PNG)
+
+iii. Click manage accounts
+![00multimc.PNG](/screenshots/00multimc.PNG)
+
+iv. Click _Add_ on the right and then enter in your Minecraft account information
+![0multimc.PNG](/screenshots/0multimc.PNG)
+
+v. Click _Add Instance_
+![1multimc.PNG](/screenshots/1multimc.PNG)
+
+vi. Name your instance, what group it falls under \(optional\) and choose Minecraft Vanilla version 1\.15\.2 and press _OK_\.
+![2multimc.PNG](/screenshots/2multimc.PNG)
+
+vii. Now right click your newly made instance and press _Edit Instance_\.
+![3multimc.PNG](/screenshots/3multimc.PNG)
+
+viii. Make sure _Version_ is selected on the left side column, then click _Install Forge_ on the right side column\.
+![4multimc.PNG](/screenshots/4multimc.PNG)
+
+ix. Select the latest version (highest number) which is 31\.1\.87 in my case, then click _OK_\. _Note: This might not be your case, but selecting the latest version should be sufficient_\.
+![5multimc.PNG](/screenshots/5multimc.PNG)
+
+x. Now you should see Forge. Now _Close_ the window\.
+![6multimc.PNG](/screenshots/6multimc.PNG)
+
+xi. Go ahead and start your instance by double\-clicking the instance that you created\. If it is installed correctly then you should see the Forge version you installed on the bottom left of the Minecraft main screen\. Also if you click _Mods_ you should see Forge there too\.
+![7multimc.PNG](/screenshots/7multimc.PNG)
+![8multimc.PNG](/screenshots/8multimc.PNG)
+
+xii. Now close your Minecraft game and right click your instance and press _Minecraft Folder_\. It will open up your the respective folder to your instance\.
+![9multimc.PNG](/screenshots/9multimc.PNG)
+
+xiii. Open up the _mods_ folder\.
+![10multimc.PNG](/screenshots/10multimc.PNG)
+
+xiv. Drag and drop the mod _\.jar_ files in the _mods_ folder\.
+![11multimc.PNG](/screenshots/11multimc.PNG)
+![12multimc.PNG](/screenshots/12multimc.PNG)
+
+xv. Now, once you open up your Minecraft game you should see all the mods that you installed\.
+![13multimc.PNG](/screenshots/13multimc.PNG)
+![14multimc.PNG](/screenshots/14multimc.PNG)
 
 ## 4. Installation Guide Using Original Mojang Minecraft Laucher
-i. drag & drop them into your mods folder in path _DRIVE\_LETTER:\\Users\\YOUR_USER_NAME\\AppData\\Roaming\\\.minecraft\\mods_
+
+Just download MultiMC\. It will make your life so much easier\. [3\. Installation Guide Using MultiMC](#3-installation-guide-using-multimc)\. Maybe I'll write a guide here whenever I'm not lazy\.
