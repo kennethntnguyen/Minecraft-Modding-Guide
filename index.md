@@ -114,5 +114,5 @@ vi. That's it. Your game should be ready to go with your newly installed shaders
 
 ## 5. Installing Mods Using Original Mojang Minecraft Laucher  
 
-Just download MultiMC\. It will make your life so much easier\. I will even provide a link for you to go back to the top of the MultiMC section: [3\. Installation Guide Using MultiMC](#3-installation-guide-using-multimc)\.  
+Just download MultiMC\. It will make your life so much easier\. I will even provide a link for you to go back to the top of the MultiMC section: [3\. Installing Mods Using MultiMC](#3-installing-mods-using-multimc)\.  
 Maybe I'll write a guide here whenever I have nothing else to do\.  
