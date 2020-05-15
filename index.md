@@ -12,12 +12,7 @@ ii. [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight/fil
 iii. [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/2887034)  
 * Biomes O' Plenty is an expansive biome mod for Minecraft that adds a slew of new, unique biomes to the Overworld and Nether!  To go along with the new biomes, it adds new plants, flowers, trees, building blocks, and much more\!  
 
-iv. [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged/files/2953095)  
-* TerraForged is an ambitious new terrain generator mod for Minecraft \(Java Edition\) attempting to create more immersive,
-inspiring worlds to explore and build in\. Featuring an overhaul of the vanilla generation system, custom terrain shapes,
-simulated erosion, better rivers, custom decorations, tonnes of configuration options, and more\!  
-
-v. [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2898972)  
+iv. [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2898972)  
 * Morpheus is a server\-only mod that adds sleep voting to a forge based server\. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate\. Also, you can configure a ratio of players that are required to make it morning \(default 50%\) messages can be customised in the config and alerts can be turned off if needed\.  
 
 After you are done downloading the required mods and don't want to install shaders then skip to [3\. Installing Mods Using MultiMC](#3-installing-mods-using-multimc)\. However, if you want to install shaders then continue to the next section: [2\. Required Mods for Shaders](#2-required-mods-for-shaders)\.  
