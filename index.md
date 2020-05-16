@@ -6,7 +6,7 @@
 i. [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight/files/2942601)  
 * The Midnight is a mod being developed by Cryptic Mushroom that adds a brand new dimension to explore full of unique adventures and dangers\! It's a dimension of perpetual darkness; the only light comes from crystals and the various flora, fungi, and fauna of the dimension\. You may travel willingly to this dimension, though you may unwillingly be dragged by a rifter into this strange, hostile world\.  
 
-ii. [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/2887034)  
+ii. [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/2957215)  
 * Biomes O' Plenty is an expansive biome mod for Minecraft that adds a slew of new, unique biomes to the Overworld and Nether!  To go along with the new biomes, it adds new plants, flowers, trees, building blocks, and much more\!  
 
 iii. [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2898972)  
