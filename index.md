@@ -12,7 +12,7 @@ ii. [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-ple
 iii. [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2898972)  
 * Morpheus is a server\-only mod that adds sleep voting to a forge based server\. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate\. Also, you can configure a ratio of players that are required to make it morning \(default 50%\) messages can be customised in the config and alerts can be turned off if needed\.  
 
-After you are done downloading the required mods and don't want to install shaders then skip to [3\. Installing Mods Using MultiMC](#3-installing-mods-using-multimc)\. However, if you want to install shaders then continue to the next section: [2\. Required Mods for Shaders](#2-required-mods-for-shaders)\.  
+After you are done downloading the required mods and don't want to install shaders or have shaders installed already then skip to [3\. Installing Mods Using MultiMC](#3-installing-mods-using-multimc)\. However, if you want to install shaders then continue to the next section: [2\. Required Mods for Shaders](#2-required-mods-for-shaders)\.  
 
 ## 2. Required Mods for Shaders  
 i. [OptiFine](https://optifine.net/adloadx?f=preview_OptiFine_1.15.2_HD_U_G1_pre16.jar)  
@@ -29,7 +29,7 @@ _Note: As found by Chung, after installing this shader mobs no longer flash red 
 
 ## 3. Installing Mods Using MultiMC  
 * I highly recommend using MultiMC as it makes managing your Minecraft client much easier. However, if you still want to use the original launcher then use this part of the guide:  
-[5\. Installing Mods Using Original Mojang Minecraft Laucher](#5-installing-mods-using-original-mojang-minecraft-laucher)\. If you already installed the _Required Mods_ and want to install the require mods for shaders then skip to the [Install Shaders](#install-shaders) section\.  
+[5\. Installing Mods Using Original Mojang Minecraft Laucher](#5-installing-mods-using-original-mojang-minecraft-laucher)\. If you already installed the _Required Mods_ and want to install the mods needed for shaders or already have Forge installed then skip to the [Install Shaders/Mods](#install-shaders) section\.  
 
 i. [Download MultiMC](https://multimc.org/#Download)  
 
