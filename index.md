@@ -116,3 +116,12 @@ i. [Forge - Download the latest version by pressing _Installer_](http://files.mi
 
 Just download MultiMC\. It will make your life so much easier\. I will even provide a link for you to go back to the top of the MultiMC section: [3\. Installing Mods Using MultiMC](#3-installing-mods-using-multimc)\.  
 Maybe I'll write a guide here whenever I have nothing else to do\.  
+
+## Round 2 - For those that installed the first round of mods during testing
+* Add these to your mods folder
+
+i. [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2946765)
+* JourneyMap is a client\+server mod for Forge which maps your Minecraft world in real-time as you explore\. You can view the map in a web browser or in-game as a Minimap or full-screen\.  
+
+ii. [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/2873556)
+* In-game map editor for admin purposes\.
