@@ -57,7 +57,7 @@ vii. Now right click your newly made instance and press _Edit Instance_\.
 viii. Make sure _Version_ is selected on the left side column, then click _Install Forge_ on the right side column\.  
 ![g-multimc.png](/screenshots/multimc/g-multimc.png)  
 
-ix. Select the latest version (highest number) which is 31\.1\.87 in my case, then click _OK_\.  
+ix. Select version 31\.1\.93 in my case, then click _OK_\. Any later version will cause Minecraft to crash since Biomes O' Plenty hasn't updated yet.  
 _Note: This might not be your case, but selecting the latest version should be sufficient_\.  
 ![h-multimc.png](/screenshots/multimc/h-multimc.png)  
 
