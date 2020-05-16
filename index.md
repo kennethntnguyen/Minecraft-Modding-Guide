@@ -3,16 +3,13 @@
 ## 1. Required Mods to Participate  
 * Download all of the following mod _\.jar_ files.  
 
-i. [Forge - Download the latest version by pressing _Installer_](http://files.minecraftforge.net)  
-* Open-source modding API and loader
-
-ii. [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight/files/2942601)  
+i. [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight/files/2942601)  
 * The Midnight is a mod being developed by Cryptic Mushroom that adds a brand new dimension to explore full of unique adventures and dangers\! It's a dimension of perpetual darkness; the only light comes from crystals and the various flora, fungi, and fauna of the dimension\. You may travel willingly to this dimension, though you may unwillingly be dragged by a rifter into this strange, hostile world\.  
 
-iii. [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/2887034)  
+ii. [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/2887034)  
 * Biomes O' Plenty is an expansive biome mod for Minecraft that adds a slew of new, unique biomes to the Overworld and Nether!  To go along with the new biomes, it adds new plants, flowers, trees, building blocks, and much more\!  
 
-iv. [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2898972)  
+iii. [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2898972)  
 * Morpheus is a server\-only mod that adds sleep voting to a forge based server\. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate\. Also, you can configure a ratio of players that are required to make it morning \(default 50%\) messages can be customised in the config and alerts can be turned off if needed\.  
 
 After you are done downloading the required mods and don't want to install shaders then skip to [3\. Installing Mods Using MultiMC](#3-installing-mods-using-multimc)\. However, if you want to install shaders then continue to the next section: [2\. Required Mods for Shaders](#2-required-mods-for-shaders)\.  
@@ -68,7 +65,7 @@ _Note for people installing shaders: Make sure you do this step as it will creat
 ![j-multimc.png](/screenshots/multimc/j-multimc.png)   
 ![k-multimc.png](/screenshots/multimc/k-multimc.png)  
 
-<a name="install-shaders"></a>
+<a name="install-shaders"></a><a name="install-mods"></a>
 xii. Now close your Minecraft game and right click your instance and press _Minecraft Folder_\. It will open up your the respective folder to your instance\.  
 ![l-multimc.png](/screenshots/multimc/l-multimc.png)  
 
@@ -107,6 +104,9 @@ v. Now you just need to enable those shaders in\-game\. Once you have your game 
 vi. That's it. Your game should be ready to go with your newly installed shaders\.
 
 ## 5. Installing Mods Using Original Mojang Minecraft Laucher  
+
+i. [Forge - Download the latest version by pressing _Installer_](http://files.minecraftforge.net)  
+* Open-source modding API and loader
 
 Just download MultiMC\. It will make your life so much easier\. I will even provide a link for you to go back to the top of the MultiMC section: [3\. Installing Mods Using MultiMC](#3-installing-mods-using-multimc)\.  
 Maybe I'll write a guide here whenever I have nothing else to do\.  
