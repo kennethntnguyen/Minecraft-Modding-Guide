@@ -1,4 +1,4 @@
-# Degen Gamerz Server Address: degengamerz.ntventures.dev
+### Degen Gamerz Server Address: degengamerz.ntventures.dev
 
 # <ins>Minecraft Modding Guide</ins>  
 
